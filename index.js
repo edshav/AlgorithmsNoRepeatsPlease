@@ -29,4 +29,3 @@ const permAlone = str => {
 
 
 }
-console.log(permAlone('aab'))
